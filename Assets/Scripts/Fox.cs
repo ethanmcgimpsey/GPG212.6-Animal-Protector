@@ -26,6 +26,7 @@ public class Fox : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Win"))
         {
+            Debug.Log("Winner");
             gameManager.winScreen.SetActive(true);
             Time.timeScale = 0f;
             Cursor.lockState = CursorLockMode.None;

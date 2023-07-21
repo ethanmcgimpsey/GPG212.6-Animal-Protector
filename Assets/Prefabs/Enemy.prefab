@@ -99,7 +99,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82b3d978e81acd440965fb879323b912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  chaseRange: 50
+  chaseRange: 35
   destroyRange: 2
   damageAmount: 20
 --- !u!136 &2777088401881112177
@@ -142,7 +142,7 @@ NavMeshAgent:
   m_Enabled: 1
   m_AgentTypeID: 0
   m_Radius: 0.5
-  m_Speed: 5
+  m_Speed: 7
   m_Acceleration: 8
   avoidancePriority: 50
   m_AngularSpeed: 120
