@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu Rework.unity
     guid: b2dade0bcc70dab4c8d7b53f812b16c8
   - enabled: 1
-    path: Assets/Scenes/GameScene.unity
+    path: Assets/Scenes/TestingArea.unity
     guid: b81d5af734815844fb0bcf5dcfc8fb4f
   m_configObjects: {}

@@ -33,7 +33,6 @@ public class FoxNavMesh : MonoBehaviour
 
     void OnDrawGizmos()
     {
-        points = waypointParent.GetComponentsInChildren<Transform>();
         if (points != null)
         {
             Gizmos.color = Color.red;
