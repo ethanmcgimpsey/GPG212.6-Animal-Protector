@@ -99,9 +99,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82b3d978e81acd440965fb879323b912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  chaseRange: 35
+  chaseRange: 40
   destroyRange: 2
-  damageAmount: 20
+  damageAmount: 15
 --- !u!136 &2777088401881112177
 CapsuleCollider:
   m_ObjectHideFlags: 0

@@ -20,7 +20,7 @@ public class ShootingController : MonoBehaviour
         }
 
         // Detect when the player presses the fire button (e.g., Left Mouse Click) and cooldown is over
-        if (Input.GetButtonDown("Fire1") && cooldownTimer <= 0f)
+        if (Input.GetButton("Fire1") && cooldownTimer <= 0f)
         {
             Shoot();
         }
